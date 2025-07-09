@@ -12,16 +12,20 @@ public class Main {
 
         //primitive - double
         double price = 20.99;
-        double gpa = 3.8;
+        double gpa = 5;
         double temperature = - 12.5;
         System.out.println("Pizza Price is "+price);
         System.out.println("Outdoor temperature is "+temperature);
+        System.out.println("I have "+quantity+"pizza");
 
         //primitive char
         char grade = 'A';
         char symbol = '!';
-        char curency = '$';
+        char currency = '$';
         System.out.println("My grade is "+grade);
+        System.out.println("My symbol is "+symbol);
+        System.out.println("My currency is "+currency);
+        System.out.println("My gpa is "+gpa);
 
         System.out.println("git Changes");
     }
