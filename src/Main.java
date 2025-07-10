@@ -28,5 +28,11 @@ public class Main {
         System.out.println("My gpa is "+gpa);
         //java
         System.out.println("git Changes");
+
+        boolean isStudent = true;
+        boolean forSale = false;
+        boolean isOnline = true;
+
+        System.out.println(isStudent);
     }
 }
