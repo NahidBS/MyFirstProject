@@ -29,10 +29,6 @@ public class Main {
         //java
         System.out.println("git Changes");
 
-        boolean isStudent = true;
-        boolean forSale = false;
-        boolean isOnline = true;
 
-        System.out.println(isStudent);
     }
 }
