@@ -29,6 +29,18 @@ public class Main {
         //java
         System.out.println("git Changes");
 
+        myMethod();
+        myMethod();
+        myMethod();
 
     }
+    static void myMethod(){
+        System.out.println("hello Method");
+
+    }
+
+    public void myPublicMethod(){
+        System.out.println("public Method");
+    }
+
 }
